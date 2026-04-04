@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+part1/out/
+part1/out_augmented/
+part1/out_*.txt
+part2/checkpoints/
+part2/results/*.sql
+part2/records/*.pkl
+part2/data/
+wandb/
